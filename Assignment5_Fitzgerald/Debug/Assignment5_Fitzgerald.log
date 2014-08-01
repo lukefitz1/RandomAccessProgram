@@ -1,0 +1,30 @@
+﻿Build started 8/1/2014 1:33:19 PM.
+     1>Project "C:\Users\Luke\Documents\CPT 244\Assignments\Assignment 5\Assignment5_Fitzgerald\Assignment5_Fitzgerald\Assignment5_Fitzgerald.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Assignment5_Fitzgerald.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Assignment5_Fitzgerald.cpp
+         Assignment5_Fitzgerald.cpp
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(141): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(203): warning C4101: 'mid' : unreferenced local variable
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(203): warning C4101: 'index' : unreferenced local variable
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(281): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(336): warning C4101: 'pos' : unreferenced local variable
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(659): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(247): warning C4715: 'validState' : not all control paths return a value
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(637): warning C4715: 'getInt' : not all control paths return a value
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(668): warning C4715: 'getFloat' : not all control paths return a value
+     1>c:\users\luke\documents\cpt 244\assignments\assignment 5\assignment5_fitzgerald\assignment5_fitzgerald\assignment5_fitzgerald.cpp(332): warning C4715: 'validDate' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luke\Documents\CPT 244\Assignments\Assignment 5\Assignment5_Fitzgerald\Debug\Assignment5_Fitzgerald.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Luke\Documents\CPT 244\Assignments\Assignment 5\Assignment5_Fitzgerald\Debug\Assignment5_Fitzgerald.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Luke\Documents\CPT 244\Assignments\Assignment 5\Assignment5_Fitzgerald\Debug\Assignment5_Fitzgerald.lib" /MACHINE:X86 Debug\Assignment5_Fitzgerald.obj
+         Assignment5_Fitzgerald.vcxproj -> C:\Users\Luke\Documents\CPT 244\Assignments\Assignment 5\Assignment5_Fitzgerald\Debug\Assignment5_Fitzgerald.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Assignment5_Fitzgerald.unsuccessfulbuild".
+         Touching "Debug\Assignment5_Fitzgerald.lastbuildstate".
+     1>Done Building Project "C:\Users\Luke\Documents\CPT 244\Assignments\Assignment 5\Assignment5_Fitzgerald\Assignment5_Fitzgerald\Assignment5_Fitzgerald.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.36
